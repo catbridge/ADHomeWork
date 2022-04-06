@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\AndroidStudioProjects\\MyCalculator\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\MyCalculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calculator.xml",
+        "source": "E:\\AndroidStudioProjects\\MyCalculator\\app\\src\\main\\res\\layout\\fragment_calculator.xml"
+    }
+]
